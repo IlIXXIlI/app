@@ -11,16 +11,8 @@
                          <key>kind</key>
                          <string>software-package</string>
                          <key>url</key>
-                         <string>https://github.com/VVW-XX/ttskarl1/releases/download/123123/esign.ipa</string>
-                     </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>display-image</string>
-                    <key>needs-shine</key>
-                    <true/>
-                    <key>url</key>
-                    <string>https://github.com/VVW-XX/ttskarl1/blob/main/photo_2022-11-23_11-10-08.jpg?raw=true</string>
-                </dict>                 
+                         <string>https://github.com/IlIXXIlI/ttskarl1/releases/download/123123/esign.ipa</string>
+                     </dict>                
                  </array>
                  <key>metadata</key>
                  <dict>
