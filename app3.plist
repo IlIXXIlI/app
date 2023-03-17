@@ -13,6 +13,14 @@
                          <key>url</key>
                          <string>https://github.com/IlIXXIlI/app/releases/download/app/TikTok_28.4.0_dark3.1.ipa</string>
                      </dict>  
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>https://raw.githubusercontent.com/IlIXXIlI/ICON/main/5.jpg</string>
+                </dict>   
                  </array>
                  <key>metadata</key>
                  <dict>
