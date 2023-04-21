@@ -25,7 +25,7 @@
                  <key>metadata</key>
                  <dict>
                      <key>bundle-identifier</key>
-                     <string>http://org.b3dab8f0-1431-482f-912d-1859cbe18941</string>
+                     <string>org.b3dab8f0-1431-482f-912d-1859cbe18941</string>
                      <key>bundle-version</key>
                      <string>1.0</string>
                      <key>kind</key>
