@@ -25,7 +25,7 @@
                  <key>metadata</key>
                  <dict>
                      <key>bundle-identifier</key>
-                     <string>com.zhiliaoapp.musically.ttskarldark</string>
+                     <string>com.zhiliaoapp.musically.dark.ttskarl</string>
                      <key>bundle-version</key>
                      <string>28.9.1</string>
                      <key>kind</key>
